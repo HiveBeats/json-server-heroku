@@ -1,16 +1,34 @@
 {
-  "posts":[
+  "goods":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "title": "Nike AirForce 01",
+      "picture": "https://i.pinimg.com/originals/21/3c/2c/213c2c25664a03f8ee07927ea4a150d1.jpg",
+      "content" : "Крутейшие кроссовки, йоу!"
+    },
+    {
+      "id" : 1,
+      "title": "Nike AirForce 5",
+      "picture": "https://www.tmbookstores.com/wp-content/uploads/2018/10/nike-airforce-5-7lk.jpg",
+      "content" : "Тоже крутые кроссы."
+    },
+    {
+      "id" : 2,
+      "title": "New Balance 574",
+      "picture": "https://newbalance.ru/upload/iblock/81b/ml574snq_nb_02_i.JPG",
+      "content" : "Самая удобная обувь в мире"
+    },
+    {
+      "id" : 3,
+      "title": "New Balance 247",
+      "picture": "https://newbalance.ru/upload/iblock/d38/_M7B3746.jpg",
+      "content" : "Хочу такие"
     }
   ],
-  "comments" : [
+  "basket" : [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "userId":0,
+      "goodId": 0
     }
   ]
 }
